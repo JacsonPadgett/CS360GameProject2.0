@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_1/L1P1.unity
+    guid: e85fb096734ee1540822999c29c16a27
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_1/L1P2.unity
+    guid: 5096ffddf442db24dba442f52f7bf7c8
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_1/L1P3.unity
+    guid: d370344a609d775459be7c9fdbf3bd38
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_1/L1P4.unity
+    guid: dbd17aba5136f184ba7d4e6d3c22de8b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_1/L1P5.unity
+    guid: 24f80f45bbf273d4f88c8cf3380c7854
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P1.unity
+    guid: 2d5aa17bc83933447bf93e07f60edbc9
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P2.unity
+    guid: 04cd1826d994fec44bed43a31da78901
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P3.unity
+    guid: acc7f9d74b3c313498bd2509686d2015
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P4.unity
+    guid: e69dc5fc7b6168747a85fd250ed1717c
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P5.unity
+    guid: 00117be5f65fb18429b74ed7db5f7240
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P6.unity
+    guid: ebe44e7d07e7fae4ab94d5930bf13b30
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_2/L2P7.unity
+    guid: 61e81112e64916d4d909b98dee7fd718
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_3/L3P1.unity
+    guid: 3f33d817803088c4fa54f71ed1f6802f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_3/L3P2.unity
+    guid: 24053a5ad02a675469e22112f2cc9e7b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_3/L3P3.unity
+    guid: d9b710912627c274e928b420f58d6fa1
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P1.unity
+    guid: 8500318ad67505d47b2ecfed8681313f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P2.unity
+    guid: 689beb94fc257724bbc11161b3b8919f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P3.unity
+    guid: fb8601b823c0b8b4cb4bc6e0beefe595
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P4.unity
+    guid: 9a8bb92a88bcfeb4782ab72bcb97a14c
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P5.unity
+    guid: 105280ed3cb7a48489a3bdf9dff31caa
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P6.unity
+    guid: 821dd24e81a2ea34dae5418b6b695aa5
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P7.unity
+    guid: 7621ec699e1196940ad370191918ff9f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P8.unity
+    guid: 93f77121863af6b47a905db57e2c72fd
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P9.unity
+    guid: c9a11cbd0adc6c243906d6f44e7f3e97
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P10.unity
+    guid: 203db2058e44cc7479d3851f134332de
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_4/L4P11.unity
+    guid: 45db3479e02b9a64ba38680c0d360d96
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_5/L5P1.unity
+    guid: 8a108d865bb4fab45ac26e9e1e9df537
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_5/L5P2.unity
+    guid: f5bedd60f0494a347acf64f07a4607f1
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_5/L5P3.unity
+    guid: 855cf754d0a03184fa6654357bc4a06f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_5/L5P4.unity
+    guid: 15463d4721a62a44ead8ff55de37b788
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_6/L6P1.unity
+    guid: 507818ec1e0e7bc41858db9efea1044f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_6/L6P2.unity
+    guid: 3acb1a48a8ed278499148b5bf00d2093
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_6/L6P3.unity
+    guid: 3080592a9b4b6e24f83cd1facebde5c0
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_6/L6P4.unity
+    guid: 4aa29c5ac4f373544bcab75c48636967
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P2.unity
+    guid: 98be17322a765374db407cc6901d02a3
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P3.unity
+    guid: 785c1328eb53b5e478e13adde697462a
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P4.unity
+    guid: 6409980cf8663ad46bccc3cf548a2d6b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P5.unity
+    guid: 3285d032554a37c4a8cd44850860642d
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P6.unity
+    guid: 3386fa41427adea46ac12a9e3cb46277
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_7/L7P7.unity
+    guid: 4178d9c334fb3014c942c61dc70e8aa8
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P1.unity
+    guid: fb8936a8e2574e949be8745092bdc619
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P2.unity
+    guid: db7ff4f9e70fb5548a7a9170cef6b801
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P3.unity
+    guid: 23a7e5fdc97e61e4a855758dc42813f1
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P4.unity
+    guid: 8fa135fc2db52b5418613d2b8a865ef5
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P5.unity
+    guid: 12ecf1955bcbdca4cb9b9f1bfffeaaeb
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P6.unity
+    guid: dd01d14572dd6b149ab5cf0f66c54d61
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_8/L8P7.unity
+    guid: 7629706f61579e14594001909b7460ab
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P1.unity
+    guid: fb7141982bc634f41a2f272bad79241a
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P2.unity
+    guid: 7b2604434210ecf4792e14ef3acb16e1
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P3.unity
+    guid: b25e6978b47b1144fabd243bf9e6d60e
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P4.unity
+    guid: 6e0575c5f6b0f7c49b808632255b46fa
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P5.unity
+    guid: e882c055eec727a48a85e033f1a4cf17
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P6.unity
+    guid: e054425c2635308468f5d6f39c17c5c7
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P7.unity
+    guid: 91af8ccda6dd1e944a6cdc490aff4cbe
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P8.unity
+    guid: b99c8422cb1e4ba418c8fe9e0104ef22
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P9.unity
+    guid: 2cfe25a61e30ca04b82e5f15e1eea1f2
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_9/L9P10.unity
+    guid: e96ac2496eb10a54690d65b4e6152cd1
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P1.unity
+    guid: ee2dc0dfd772ca44eae905512f09ac5b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P2.unity
+    guid: 99215c016f529d04ba093877e230168e
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P3.unity
+    guid: cf766308327d85e41bd6584b8f454e2b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P4.unity
+    guid: 9f31a7874f8ea244c8609aa20992af99
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P5.unity
+    guid: 8de530c82d1df924187c833691d29455
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P6.unity
+    guid: a0edf665974d1794ca120812b188d8bd
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P7.unity
+    guid: 9ff8cd1940c6b0349bcdc3f1d7d8ef6b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P8.unity
+    guid: 2f0044a8b4d50304982c0a626644b19b
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P9.unity
+    guid: 5b6ef09be40cdbf46828252e1ca5eece
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P10.unity
+    guid: 6c8452821baed814ea0995f291298f12
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P11.unity
+    guid: dfc41f5e0488fa942b9427d47669a877
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P12.unity
+    guid: a7bc4780645cbdb478ad10aaa6e35730
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P13.unity
+    guid: 21cbb91bc7c232f4e8f9c5f20aaf2d3f
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P14.unity
+    guid: c8af9dad133418d4a94561346fd84e3e
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P15.unity
+    guid: ee7b571e4b77b7d4cbd500cb8ac8b63a
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P16.unity
+    guid: a6f344c772ca1fb4897473c6cc110025
+  - enabled: 1
+    path: Assets/Scenes/Lessons/Lesson_10/L10P17.unity
+    guid: 86bfba9cd5e17014e805be5a11e711f8
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Q1P1.unity
+    guid: a591dbab38b39ed49954385b2ab30c7a
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Q1P2.unity
+    guid: 2bb718caf6d1d1046b9e7c7bb1fb4af3
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z1.unity
+    guid: 80c1da8d7d88cd04d82a038cffb2b875
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z2.unity
+    guid: c3a716362098ff543b1aad4c7736015c
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z3.unity
+    guid: 7078946222844cc4e89b691a8d8dd4d9
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z4.unity
+    guid: 049485aefcd9f994982c6b6718c51450
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z5.unity
+    guid: 4abb45be0ac0291469f431d321154f71
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z6.unity
+    guid: 8775aa8060d97844daaa4f9bbfe23de4
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z7.unity
+    guid: 8a4ea5974e82434468bfa5cdba96ce4e
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z8.unity
+    guid: 513c3466ed607694fa51a45bd1efc891
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z9.unity
+    guid: 3691ed7d0603ea040b45333ff7991fda
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Questions/Q1Z10.unity
+    guid: 568f97f8a7d78a94c9a8c556bb39305b
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/Quiz_1/Q1P3.unity
+    guid: 3428ab8b9c7c2a045a03bd307fbb5cdb
+  - enabled: 1
+    path: Assets/Scenes/MasterScene.unity
+    guid: c308f2182d40c964ca46b8b2eb4df36d
+  m_configObjects: {}
